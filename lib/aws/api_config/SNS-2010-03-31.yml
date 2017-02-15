@@ -318,6 +318,8 @@
     - :string
     TargetArn:
     - :string
+    PhoneNumber:
+    - :string
     Message:
     - :string
     - :required
